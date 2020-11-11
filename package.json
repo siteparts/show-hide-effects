@@ -1,0 +1,30 @@
+{
+	"name": "@siteparts/show-hide-effects",
+	"version": "1.0.0",
+	"description": "Element show/hide effects",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/siteparts/show-hide-effects.git"
+	},
+	"keywords": [
+		"show",
+		"hide",
+		"toggle",
+		"slide",
+		"slideToggle",
+		"slideUp",
+		"slideDown",
+		"fade",
+		"fadeIn",
+		"fadeOut"
+	],
+	"license": "BSD-3-Clause",
+	"bugs": {
+		"url": "https://github.com/siteparts/show-hide-effects/issues"
+	},
+	"homepage": "https://github.com/siteparts/show-hide-effects#readme"
+}
